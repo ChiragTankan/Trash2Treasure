@@ -1,15 +1,46 @@
-🚧 This project is being built from scratch as part of ECWoC 2026. Core features and architecture are under active development, and contributions are welcome.
+<div align="center">
+
+<!-- Project Banner/Logo -->
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Trash2Treasure&fontSize=80&animation=fadeIn" width="100%" />
+
+<br />
+
+<!-- Animated Typing Tagline -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Turning+Waste+into+Worth+🇮🇳;Citizen-Driven+Cleanliness;Building+for+ECWoC+2026;Join+the+Mission+to+Clean+India" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <strong>Empowering citizens to transform urban spaces through transparency and technology.</strong>
+</p>
+
+<!-- Badges Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Under%20Construction-orange?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Program-ECWoC%202026-blue?style=for-the-badge&logo=eventbrite&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-# 🗑️ Trash2Treasure
-### A Citizen-Driven Cleanliness Reporting Platform 🇮🇳
+</div>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](CONTRIBUTING.md)
+### 🏗️ Development Status: ECWoC 2026
+> [!IMPORTANT]
+> This project is being built from the ground up as a core contribution to **ECWoC 2026**. 
+> We are currently in the **Architectural Phase**. We welcome developers, UI/UX designers, and environmental enthusiasts to join the movement.
 
 ---
 
+### 📖 About the Project
+**Trash2Treasure** is a citizen-driven cleanliness reporting platform designed for the Indian context. It bridges the gap between civic awareness and local administration action.
+
+*   **Report:** Spot a dump site? Snap a photo and report it via geo-tagging.
+*   **Track:** Watch the progress as local authorities or community heroes take action.
+*   **Reward:** Earn community credits for making your city cleaner.
+
+---
 ## 📌 Overview
 
 **Trash2Treasure** is a Swachh Bharat–inspired civic-tech platform that enables citizens to report unclean public areas by uploading photos. The system automatically detects the location and forwards the issue to the concerned municipal authorities through an admin dashboard for quick action and transparency.
